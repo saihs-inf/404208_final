@@ -19,7 +19,7 @@ namespace _404208_final
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+           
 
         }
 
@@ -31,6 +31,12 @@ namespace _404208_final
         private void button2_Click(object sender, EventArgs e)
         {
             label1.Text = textBox1.Text;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label1.Text = "";
+            textBox1.Text="";
         }
     }
 }
