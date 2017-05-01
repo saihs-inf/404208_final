@@ -1,2 +1,10 @@
 c:\users\user\documents\visual studio 2013\Projects\404208_final\404208_final\bin\Debug\404208_final.exe.config
 C:\Users\user\Desktop\404208_final\404208_final\bin\Debug\404208_final.exe.config
+C:\Users\user\Desktop\404208_final\404208_final\bin\Debug\404208_final.exe
+C:\Users\user\Desktop\404208_final\404208_final\bin\Debug\404208_final.pdb
+C:\Users\user\Desktop\404208_final\404208_final\obj\Debug\404208_final.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\404208_final\404208_final\obj\Debug\_404208_final.Form1.resources
+C:\Users\user\Desktop\404208_final\404208_final\obj\Debug\_404208_final.Properties.Resources.resources
+C:\Users\user\Desktop\404208_final\404208_final\obj\Debug\404208_final.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\404208_final\404208_final\obj\Debug\404208_final.exe
+C:\Users\user\Desktop\404208_final\404208_final\obj\Debug\404208_final.pdb

@@ -22,5 +22,10 @@ namespace _404208_final
             MessageBox.Show("Hello World");
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("show Botton1");
+        }
     }
 }
