@@ -25,7 +25,12 @@ namespace _404208_final
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("show Botton1");
+            MessageBox.Show("show Button1");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text;
         }
     }
 }
